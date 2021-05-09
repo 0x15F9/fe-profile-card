@@ -63,3 +63,7 @@ img.cover {
     width: 100%;
     height: 15rem;
 }
+
+.top {
+    margin-bottom: -7rem;
+}
